@@ -11,7 +11,7 @@ Resources used:
 --color combination from https://paletton.com/
 
 
-Live: https://animated-navigator.netlify.app/
+# Live: https://animated-navigator.netlify.app/
 
 I've arranged the files and codes in such a way that you wouldn't find difficulty navigating through and understanding...
 
